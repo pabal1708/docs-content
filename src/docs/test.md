@@ -1,6 +1,6 @@
-# Criar usuário de teste
+# Vou testar
 
-A etapa de testes permite analisar se a integração foi feita de maneira correta e se os pagamentos estão sendo processados sem erros.
+Se voce consegue ver isto, o test foi satisfatorio
 
 Para realizar o teste de integração, serão necessários usuários de teste que permitirão avaliar o funcionamento do checkout através de fluxos de pagamento em um ambiente idêntico ao da integração.
 
