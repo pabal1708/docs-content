@@ -27,7 +27,7 @@ ___
 ***
 
 
-## Typographic replacements
+## El Tio Pol
 
 Enable typographer option to see result.
 
