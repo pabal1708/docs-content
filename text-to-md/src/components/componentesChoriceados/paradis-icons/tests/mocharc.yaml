@@ -1,0 +1,9 @@
+extension:
+  - ts
+spec: 'src/**/**/*.spec.{ts,tsx}'
+require:
+  - ignore-styles
+  - ts-node/register
+  - jsdom-global/register
+  - tests/setup.ts
+exit: true

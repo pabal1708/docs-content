@@ -1,0 +1,9 @@
+@layer utilities {
+  .section {
+    @apply max-w-section px-5 w-full mx-auto;
+
+    @screen lg {
+      @apply px-10;
+    }
+  }
+}
